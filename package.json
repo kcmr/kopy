@@ -14,5 +14,9 @@
   },
   "bin": {
     "kopy": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kcmr/kopy.git"
   }
 }
